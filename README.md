@@ -1,1 +1,1 @@
-implementasi aplikasi chat aman menggunakan metode Caesar Chiper, 
+implementasi aplikasi chat aman menggunakan metode Caesar Chiper,  Algoritma kriptografi klasik memiliki 2 ciri yaitu berbasis karakter dan menggunakan kunci simetri. Dalam kriptografi klasik, teknik enkripsi yang digunakan adalah enkripsi simetris yang mana kunci deskripsi sama dengan kunci enkripsi. Salah satu algoritma klasik adalah Caesar Chipper. Kriptografi klasik dapat di kelompokkan menjadi 2 model yaitu yang pertama menggunakan teknik substitusi dan transposisi.
